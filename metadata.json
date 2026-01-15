@@ -1,0 +1,5 @@
+{
+  "name": "GymFlow - Real-time Gym Tracker",
+  "description": "A hyper-local occupancy tracking system for apartment gyms, allowing residents to report and view crowd status in real-time.",
+  "requestFramePermissions": []
+}
